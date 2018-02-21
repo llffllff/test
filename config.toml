@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "jp"
+title = "Example Blog"
+theme = "elephants"
+
+[params]
+    sitename = "Test"

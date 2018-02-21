@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Example Blog</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Example Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Mon, 01 Jan 2018 18:30:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Happy New Year!</title>
+      <link>http://example.org/posts/happy-new-year/</link>
+      <pubDate>Mon, 01 Jan 2018 18:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/happy-new-year/</guid>
+      <description>My New Years Resolutions</description>
+    </item>
+    
+    <item>
+      <title>Elephants Hugo Theme</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Sat, 30 Dec 2017 18:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Elephants Hugo Theme</description>
+    </item>
+    
+    <item>
+      <title>How To Blog 101</title>
+      <link>http://example.org/posts/my-example-post/</link>
+      <pubDate>Fri, 29 Dec 2017 18:30:21 -0500</pubDate>
+      
+      <guid>http://example.org/posts/my-example-post/</guid>
+      <description>Instructions on how to blog 101</description>
+    </item>
+    
+  </channel>
+</rss>
