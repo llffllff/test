@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Example Blog</title>
-    <link>https://cranky-kirch-20fa0c.netlify.com/</link>
-    <description>Recent content on Example Blog</description>
+    <title>Posts on Example Blog</title>
+    <link>https://cranky-kirch-20fa0c.netlify.com/posts/</link>
+    <description>Recent content in Posts on Example Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
     <lastBuildDate>Mon, 01 Jan 2018 18:30:21 -0500</lastBuildDate>
     
-	<atom:link href="https://cranky-kirch-20fa0c.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cranky-kirch-20fa0c.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -36,15 +36,6 @@
       
       <guid>https://cranky-kirch-20fa0c.netlify.com/posts/my-example-post/</guid>
       <description>Instructions on how to blog 101</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://cranky-kirch-20fa0c.netlify.com/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://cranky-kirch-20fa0c.netlify.com/admin/</guid>
-      <description>  Content Manager     </description>
     </item>
     
   </channel>

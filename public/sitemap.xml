@@ -3,39 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/posts/happy-new-year/</loc>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/posts/happy-new-year/</loc>
     <lastmod>2018-01-01T18:30:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/posts/my-first-post/</loc>
     <lastmod>2017-12-30T18:30:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/my-example-post/</loc>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/posts/my-example-post/</loc>
     <lastmod>2017-12-29T18:30:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/</loc>
     <lastmod>2018-01-01T18:30:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/posts/</loc>
     <lastmod>2018-01-01T18:30:21-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://cranky-kirch-20fa0c.netlify.com/tags/</loc>
     <priority>0</priority>
   </url>
   
