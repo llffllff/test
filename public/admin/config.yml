@@ -1,5 +1,7 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: llffllff/cmstest
+  branch: master
 
 media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "img"
