@@ -1,7 +1,7 @@
 backend:
   name: github
-  repo: llffllff/cmstest
-  branch: master
+  repo: llffllff/fxyz
+  branch: testbranch
 
 media_folder: "static/img" # Folder where user uploaded files should go
 public_folder: "img"
