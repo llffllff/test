@@ -1,4 +1,4 @@
-baseURL = "https://cranky-kirch-20fa0c.netlify.com/"
+baseURL = "/"
 languageCode = "jp"
 title = "Example Blog"
 theme = "elephants"
