@@ -1,7 +1,7 @@
 ---
 title: Lua開発記1
 date: 2018-02-24T03:41:46.792Z
-description: null
+description: lua-1
 image: null
 ---
 左ボタン（左クリック）押下と同時に右ボタン押下
@@ -15,3 +15,4 @@ function OnEvent(event, arg)
 	end
 end
 </pre>
+
